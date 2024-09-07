@@ -2,13 +2,12 @@
 package = "encryption-plugin"
 version = "1.0-1"
 source = {
-  url = "git://github.com/yourusername/encryption-plugin.git",
+  url = "git://github.com/ngaikwad28/encryption-plugin.git",
   branch = "main",
 }
 description = {
   summary = "A Kong plugin for encryption and decryption",
-  detailed = "This plugin provides encryption and decryption functionality using AES-256-CBC.",
-  homepage = "http://yourwebsite.com",
+  detailed = "This plugin provides encryption and decryption functionality using AES-256-CBC."
 }
 dependencies = {
   "lua-resty-ssl", -- Replace with actual dependencies if needed
