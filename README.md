@@ -33,8 +33,11 @@ curl -X POST http://localhost:8001/services/demo/plugins \
    luarocks make encryption-plugin-1.0-1.rockspec
 
 
-
-
+============================================
+To allow ip open on putty application
+apt install net-tools
+netstat -ntpl
+apt install openssh-server
 
 
 
