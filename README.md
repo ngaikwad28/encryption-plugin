@@ -34,7 +34,7 @@ curl -X POST http://localhost:8001/services/demo/plugins \
 
 
 ============================================
-To allow ip open on putty application
+To allow ip open on putty application connection
 apt install net-tools
 netstat -ntpl
 apt install openssh-server
